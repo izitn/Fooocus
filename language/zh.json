@@ -304,5 +304,5 @@
     "Similar to the Control Mode in A1111 (use 0.0 to disable). ": "类似于A1111中的控制模式（使用0.0禁用）. ",
     "Canny": "Canny, 检测图像中的边缘",
     "Canny Low Threshold": "Canny Low Threshold(低阈值)",
-    "Canny High Threshold": "Canny High Threshold(高阈值)",
+    "Canny High Threshold": "Canny High Threshold(高阈值)"
 }
