@@ -1,3 +1,15 @@
+# 2.1.837
+
+* Fix some precision-related problems.
+
+# 2.1.836
+
+* Avoid blip tokenizer download from torch hub
+
+# 2.1.831
+
+* Input Image -> Describe (Midjourney Describe)
+
 # 2.1.830
 
 * SegmindVega support.
