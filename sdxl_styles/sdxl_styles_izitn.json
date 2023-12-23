@@ -8,5 +8,5 @@
         "name": "胶片摄影",
         "prompt": "masterpiece, a analog film {prompt}, desaturated, 35mm photo, emotional, harmonious, vignette, 4k epic detailed, shot on kodak, Kodachrome, Lomography, stained, sharp focus, UHD, 8K, ultra detailed",
         "negative_prompt": "painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigure"
-    },
+    }
 ]
