@@ -29,12 +29,11 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "taken by Hideaki Hamada",
+    "default_prompt": "A masterpiece of analog fine art nude photography featuring a 16-year-old seductive beauty taken by Hideaki Hamada",
     "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label",
     "default_styles": [
         "Fooocus V2",
-        "Fooocus Enhance",
-        "电影感"
+        "Fooocus Enhance"
     ],
     "default_aspect_ratio": "1344*768",
     "checkpoint_downloads": {
