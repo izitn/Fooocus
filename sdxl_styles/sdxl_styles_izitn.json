@@ -1,12 +1,17 @@
 [
     {
+        "name": "照片负面",
+        "prompt": "",
+        "negative_prompt": "(worst quality:1.2), (low quality:1.2), (bad quality:1.2), text, 3d, CG, sketch, painting, drawing, render, cartoon, anime, manga,watermark, signature, label, bad hands, bad eyes, missing fingers, extra digit, big nose,unrealistic,cropped, saturated, high contrast"
+    },
+    {
         "name": "电影感",
-        "prompt": "masterpiece, a cinematic still {prompt} taken by Hideaki Hamada, emotional, harmonious, vignette, 4k epic detailed, shot on kodak, 35mm photo, sharp focus, high budget, cinemascope, epic, gorgeous,UHD, 8K, ultra detailed",
-        "negative_prompt": "anime, cartoon, graphic, (blur, blurry, bokeh), text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
+        "prompt": "masterpiece, a cinematic still {prompt} taken by Hideaki Hamada, emotional, harmonious, great composition, 4k epic detailed, shot on kodak, 35mm photo, sharp focus, high budget, cinemascope, epic, gorgeous,UHD, 8K, ultra detailed",
+        "negative_prompt": ""
     },
     {
         "name": "胶片摄影",
-        "prompt": "masterpiece, a analog film {prompt} taken by Hideaki Hamada, desaturated, 35mm photo, emotional, harmonious, vignette, 4k epic detailed, shot on kodak, Kodachrome, Lomography, stained, sharp focus, UHD, 8K, ultra detailed",
-        "negative_prompt": "painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigure"
+        "prompt": "a masterpiece of analog film photograph taken by Hideaki Hamada on Kodak Portra,featuring {prompt}, 35mm photo, great composition，emotional, harmonious,  stained, sharp focus,4k epic detailed, UHD, 8K, ultra detailed",
+        "negative_prompt": ""
     }
 ]
