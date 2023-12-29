@@ -4,16 +4,16 @@
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
-            "CDLxl.safetensors",
-            0.5
-        ],
-        [
             "GFMix_XL.safetensors",
-            0.3
+            0.4
         ],
         [
-            "None",
-            1.0
+            "CDLxl.safetensors",
+            0.4
+        ],
+        [
+            "sd_xl_base_1.0_0.9vae.safetensors",
+            0.2
         ],
         [
             "None",
@@ -24,23 +24,24 @@
             1.0
         ]
     ],
-    "default_cfg_scale": 6.0,
+    "default_cfg_scale": 5.0,
     "default_sample_sharpness": 2.0,
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "A masterpiece of analog fine art nude photography featuring a 16-year-old seductive beauty taken by Hideaki Hamada",
-    "default_prompt_negative": "unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label",
+    "default_prompt": "a 16yo gorgeous busty girl",
+    "default_prompt_negative": "",
     "default_styles": [
         "Fooocus V2",
-        "Fooocus Enhance"
+        "胶片摄影",
+        "照片负面"
     ],
-    "default_aspect_ratio": "1344*768",
+    "default_aspect_ratio": "1216*832",
     "checkpoint_downloads": {
-        "sd_xl_base_1.0_0.9vae.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0_0.9vae.safetensors"
+        "sd_xl_base_1.0_0.9vae.safetensors": "https://hf-mirror.com/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0_0.9vae.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
+        "sd_xl_offset_example-lora_1.0.safetensors": "https://hf-mirror.com/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
     }
 }
