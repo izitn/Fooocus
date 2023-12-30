@@ -1,2 +1,3 @@
-path = wildcard
-url = https://github.com/sdbds/stable-diffusion-webui-wildcards
+[submodule "wildcards"]
+	path = wildcards
+	url = https://github.com/sdbds/stable-diffusion-webui-wildcards.git
