@@ -5,6 +5,11 @@
         "negative_prompt": "(worst quality:1.2), (low quality:1.2), (bad quality:1.2), text, 3d, CG, sketch, painting, drawing, render, cartoon, anime, manga,watermark, signature, label, bad hands, bad eyes, missing fingers, extra digit, big nose,unrealistic,cropped, saturated, high contrast"
     },
     {
+        "name": "滨田英明",
+        "prompt": "masterpiece of analog film taken by Hideaki Hamada",
+        "negative_prompt": ""
+    },
+    {
         "name": "电影感",
         "prompt": "masterpiece, a cinematic still {prompt} taken by Hideaki Hamada, emotional, harmonious, great composition, 4k epic detailed, shot on kodak, 35mm photo, sharp focus, high budget, cinemascope, epic, gorgeous,UHD, 8K, ultra detailed",
         "negative_prompt": ""
