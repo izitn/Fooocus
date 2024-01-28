@@ -33,10 +33,9 @@
     "default_prompt_negative": "",
     "default_styles": [
         "Fooocus V2",
-        "胶片摄影",
-        "照片负面"
+        "滨田英明"
     ],
-    "default_aspect_ratio": "1216*832",
+    "default_aspect_ratio": "832*1216",
     "checkpoint_downloads": {
         "sd_xl_base_1.0_0.9vae.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0_0.9vae.safetensors"
     },
