@@ -10,6 +10,11 @@
         "negative_prompt": ""
     },
     {
+        "name": "蜷川実花",
+        "prompt": "masterpiece of fine art photography taken by Mika Ninagawa",
+        "negative_prompt": ""
+    },
+    {
         "name": "电影感",
         "prompt": "masterpiece, a cinematic still {prompt} taken by Hideaki Hamada, emotional, harmonious, great composition, 4k epic detailed, shot on kodak, 35mm photo, sharp focus, high budget, cinemascope, epic, gorgeous,UHD, 8K, ultra detailed",
         "negative_prompt": ""
