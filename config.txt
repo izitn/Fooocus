@@ -2,7 +2,7 @@
     "path_checkpoints": "/mnt/workspace/stable-diffusion-webui/models/Stable-diffusion",
     "path_loras": "/mnt/workspace/stable-diffusion-webui/models/Lora",
     "path_embeddings": "/mnt/workspace/stable-diffusion-webui/embeddings",
-    "path_vae_approx": "/mnt/workspace/stable-diffusion-webui/models/VAE_approx",
+    "path_vae_approx": "/mnt/workspace/stable-diffusion-webui/models/VAE-approx",
     "path_upscale_models": "/mnt/workspace/stable-diffusion-webui/models/ESRGAN",
     "path_inpaint": "/mnt/workspace/Fooocus/models/inpaint",
     "path_controlnet": "/mnt/workspace/stable-diffusion-webui/models/ControlNet",
