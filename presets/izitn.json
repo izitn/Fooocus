@@ -41,6 +41,10 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
+        "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
+        "HideakiHamadaStyle.safetensors": "https://huggingface.co/izitn/HideakiHamadaStyle/resolve/main/HideakiHamadaStyle.safetensors",
+        "CDL.safetensors": "https://huggingface.co/izitn/HideakiHamadaStyle/resolve/main/CDL.safetensors",
+        "CDLxl.safetensors": "https://huggingface.co/izitn/HideakiHamadaStyle/resolve/main/CDLxl.safetensors",
+        "GFMix_XL.safetensors": "https://huggingface.co/izitn/HideakiHamadaStyle/resolve/main/GFMix_XL.safetensors"
     }
 }
